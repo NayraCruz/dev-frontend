@@ -11,7 +11,6 @@
 
 **Depois de baixar o projeto**
 
-- Digitar no terminal de comandos, na pasta raiz do seu projeto.
 - **npm install**
 - **bower install**
 - **gulp** para rodar sua aplicação
